@@ -1,7 +1,7 @@
 import  requests
 
-app_id = 'ea5c5278'
-app_key = '85a1f4cca5f903fb86c4cbb0fe5bc849'
+app_id = 'YOUR API ID'
+app_key = 'YOUR API KEY'
 language = 'en'
 word_id = input("Enter a word: ")
 url = 'https://od-api.oxforddictionaries.com:443/api/v1/entries/'  + language + '/'  + word_id.lower()
