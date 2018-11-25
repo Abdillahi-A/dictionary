@@ -1,9 +1,7 @@
 # dictionary
 
-Find defintions for any word.
+It's a dictionary.
 
-To Do:
-
-1. Find out why we get a KeyError: 'examples' when certain words are entered e.g. ninja is entered.
-2. Add second defintion
-3. Add synonyms and antonyms
+## To Do:
+1. Add examples
+2. Add synonyms and antonyms
