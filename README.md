@@ -1,6 +1,10 @@
 # dictionary
 
-It's a dictionary.
+Find definitions of words. 
+
+## NB:
+This dictionary makes use of the oxford dictionary API. So to use it,you'll need to generate your own API KEY.
+
 
 ## To Do:
 1. Add examples
