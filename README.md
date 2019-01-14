@@ -1,4 +1,4 @@
-# dictionary
+# Dictionary
 
 Find definitions of words. 
 
