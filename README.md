@@ -4,7 +4,7 @@
 Finds definitions of words. 
 
 ## Motivation
-Made this to practice writing scripts that intreact with API's. Prior to this, I hadn't had much experience working
+I wanted to practice writing scripts that intreact with API's. Prior to this, I hadn't had much experience working
 with data in JSON format. So this was a great learning experience.
 
 ## Usage:
