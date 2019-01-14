@@ -3,7 +3,7 @@
 Find definitions of words. 
 
 ## Usage:
-This dictionary makes use of the oxford dictionary API. So to use it, you'll need to generate your own API KEY.
+This dictionary makes use of the oxford dictionary API. So to use it, you'll need to generate your own APP KEY and APP ID.
 
 
 ## To Do:
