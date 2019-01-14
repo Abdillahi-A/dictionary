@@ -2,7 +2,7 @@
 
 Find definitions of words. 
 
-## NB:
+## Usage:
 This dictionary makes use of the oxford dictionary API. So to use it, you'll need to generate your own API KEY.
 
 
